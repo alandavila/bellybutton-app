@@ -6,13 +6,13 @@ Belly button microbial diversity dashboard.
 
 Select belly button sampled by sample id using the dropdown box.
 
-![dropdown](resources/Dropdown_btn.png)
+![dropdown](resources/Dropdown_btn.PNG)
 
 * The meta data table displays information of the person that corresponds to the selected sample
 * The pie chart show the relative abundance of the different king of microbes (operational taxonomic units or OTUs) found in the sample
 * The scatter chart shows the values frequency for each OTU in the given sample. Each OTU ID is plotted in different color and the marker's size correspond to the OTU frequency.
 
-![dashboard](resources/dashboard_view.png)
+![dashboard](resources/dashboard_view.PNG)
 
 Original study-data come from the [Rob Dunn Lab ](http://robdunnlab.com/projects/belly-button-biodiversity/)
 
