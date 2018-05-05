@@ -1,8 +1,8 @@
 # Belly Button App
 Belly button microbial diversity dashboard.
-###Web site: https://bellybutton-app.herokuapp.com
+### Web site: https://bellybutton-app.herokuapp.com
 
-#Usage
+# Usage
 
 Select belly button sampled by sample id using the dropdown box.
 
